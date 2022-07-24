@@ -1,5 +1,18 @@
 body {
   font-family: sans-serif;
-  color: crimson;
+  color: whitesmoke;
   background-color: aliceblue;
+}
+
+.box {
+  width: 250px;
+  height: 70px;
+  background-color: dodgerblue;
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 100px auto;
 }
