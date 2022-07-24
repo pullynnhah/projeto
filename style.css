@@ -5,8 +5,9 @@ body {
 }
 
 .box {
-  width: 250px;
-  height: 70px;
+  width: 500px;
+  height: 150px;
+  font-size: 36px;
   background-color: dodgerblue;
   border-radius: 10px;
 
@@ -14,5 +15,5 @@ body {
   justify-content: center;
   align-items: center;
 
-  margin: calc(50vh - 35px) auto;
+  margin: calc(50vh - 75px) auto;
 }
